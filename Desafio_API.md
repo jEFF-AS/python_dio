@@ -16,4 +16,4 @@
 - Adicionar paginação utilizando a lib: fastapi-pagination
     - limit e offset
 
-Esse desafio, vou ficar devendo. Muito breve vou faze-lo.
+Esse desafio, vou ficar devendo. Muito em breve vou faze-lo.
